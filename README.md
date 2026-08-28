@@ -50,35 +50,17 @@ I'm an undergraduate engineering student who doesn't like generic market-talk :D
 
 </div>
 
-<br>
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eng-aly&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-aly&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=eng-aly&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=eng-aly&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
 
 <br>
 
 ### 📫 Connect
 
 <div align="center">
-
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1vYB5HKEZDYzA6vTT7DtISWB1d1Cwimd_/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliahmedalimohamed2222@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ali-elsman-1657902a5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-elsman-1657902a5)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ali_ahmed106/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/es_aly_ahmed2027)
 
 </div>
 
